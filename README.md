@@ -1,2 +1,2 @@
 # KataBankOcrGenerator
-This is an old tool developed for the KataBank OCR
+This is tool developed for generate some account number for the KataBank OCR -> http://codingdojo.org/kata/BankOCR/
